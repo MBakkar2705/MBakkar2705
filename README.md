@@ -1,16 +1,13 @@
-## Hi there 👋
+### Mohamed Bakkar
 
-<!--
-**MBakkar2705/MBakkar2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer, transitioning into Web3 and digital identity after 25+ years in information systems and industrial management.
 
-Here are some ideas to get you started:
+Recently completed an internship at The Hashgraph Group, working on production Self-Sovereign Identity (SSI) platforms (NestJS, TypeScript, Hedera DLT).
+I also worked on BioGate Vault, a decentralized identity project built during a Hedera hackathon.
+All this work lives in private enterprise repositories, but I can discuss the technical details whenever it's useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The public repos here reflect my training path:
+- `ts-coding-challenge` — Hedera SDK coding challenge (DeepTech Academy)
+- `sakila-migration` — MongoDB/Redis practice exercises
+
+📫 simobakkar@hotmail.com
