@@ -7,7 +7,8 @@ I also worked on BioGate Vault, a decentralized identity project built during a 
 All this work lives in private enterprise repositories, but I can discuss the technical details whenever it's useful.
 
 The public repos here reflect my training path:
-- `ts-coding-challenge` — Hedera SDK coding challenge (DeepTech Academy)
-- `sakila-migration` — MongoDB/Redis practice exercises
-
+- `react-hedera-wallet-bakkar_mohamed` — NestJS backend for Hedera wallet operations (accounts, transfers, tokens), tested with Jest
+- `ts-coding-challenge` — Hedera SDK challenge: Cucumber tests on consensus (HCS) and token (HTS) services
+- `sakila-migration` — SQL-to-NoSQL migration exercise (MongoDB, Redis)
+  
 📫 simobakkar@hotmail.com
