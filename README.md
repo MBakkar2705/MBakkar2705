@@ -1,4 +1,4 @@
-<img width="2678" height="1450" alt="image" src="https://github.com/user-attachments/assets/f0a96d28-5f5f-41b8-83b2-b1b007a26a6c" />### Mohamed Bakkar
+### Mohamed Bakkar
 
 Backend developer, transitioning into Web3 and digital identity after 25+ years in information systems and industrial management.
 
