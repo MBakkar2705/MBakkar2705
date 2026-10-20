@@ -11,7 +11,7 @@ The public repos here reflect my training path:
 * `hedera-wallet-nestjs-nextjs` — NestJS API and Next.js frontend for Hedera testnet wallet operations (accounts, HBAR transfers, tokens, topics), tested with Jest
 * `ts-coding-challenge` — Hedera SDK challenge: Cucumber tests on consensus (HCS) and token (HTS) services
 * `sakila-migration` — SQL-to-NoSQL migration exercise (MongoDB, Redis)
-* `traceability-api-dotnet` — Learning project: a batch-traceability API on ASP.NET Core and SQL Server (from farm to shipment), with the business rules in T-SQL stored procedures. AI-assisted, under my supervision (see the repo README).
-
+* `traceability-api-dotnet` — Learning project: a batch-traceability API on ASP.NET Core and SQL Server (from farm to shipment), with the business rules in T-SQL stored procedures.
+  
 📫 [simobakkar@hotmail.com](mailto:simobakkar@hotmail.com)  
 
